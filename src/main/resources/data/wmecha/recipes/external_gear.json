@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " D ",
+    "DGD",
+    " D "
+  ],
+  "key": {
+    "D": { "item": "minecraft:diamond" },
+    "G": { "item": "wmecha:gear" }
+  },
+  "result": {
+    "item": "wmecha:external_gear"
+  }
+}

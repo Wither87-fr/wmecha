@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GCG",
+    "REL",
+    "GJG"
+  ],
+  "key": {
+    "G": { "item": "wmecha:external_gear" },
+    "C": { "item": "wmecha:cockpit" },
+    "L": { "item": "wmecha:left_arm" },
+    "E": { "item": "wmecha:engine" },
+    "R": { "item": "wmecha:right_arm" },
+    "J": { "item": "wmecha:legs" }
+  },
+  "result": {
+    "item": "wmecha:mecha"
+  }
+}

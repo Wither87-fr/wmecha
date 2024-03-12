@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "VVG",
+    "IDG",
+    "IRI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "D": { "item": "minecraft:diamond" },
+    "R": { "item": "minecraft:redstone" },
+    "G": { "item": "wmecha:gear" },
+    "V": { "item": "minecraft:glass" }
+  },
+  "result": {
+    "item": "wmecha:cockpit"
+  }
+}
